@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ALLOY19
+- 👋 Hi, I’m @DAMIE20
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning html,css,javascript
 - 💞️ I’m looking to collaborate on Github
